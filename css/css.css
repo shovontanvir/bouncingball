@@ -1,0 +1,28 @@
+#background{
+  background-color: rgb(16, 23, 39);
+  height: 600px;
+  border: 2px solid red;
+  position: relative;
+}
+
+
+#paddle{
+  width: 100px;
+  height: 15px;
+  background-color: white;
+  position: absolute;
+}
+
+
+#ball{
+  background: white;
+  width: 25px;
+  height: 25px;
+  top: 93.5%;
+  border-radius: 15px;
+  position: absolute;
+}
+
+.h-full{
+  height: 100vh;
+}
